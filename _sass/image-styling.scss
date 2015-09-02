@@ -1,0 +1,12 @@
+img{
+	&[alt="prof-pic"]{
+		float: right;
+		width: 50%;
+		margin-left: 15px;
+		margin-bottom: 10px;
+	}
+	@media screen and (max-width: $on-palm) {
+        width: 100% !important;
+		margin: 0px;
+    }
+}
