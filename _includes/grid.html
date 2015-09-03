@@ -1,0 +1,26 @@
+<div class="row">
+{% for image in page.images %}
+
+{% if include.image == null or include.image == image.name %}
+  <div class="col-xs-12 col-sm-6 col-md-4 bottom-spacing" >
+    <h2>{{image.project}}</h2>
+    <a href="{{ image.url | prepend: site.baseurl }}" title="{{ image.text }}"><img src="{{ page.imgfolder }}/{{ image.thumb }}" title="{{ image.text }}"></a>
+  </div>
+{% endif %}
+
+{% endfor %}
+<!-- </div>
+  <div class="row">
+    <div class="col-md-4">
+      <h2>Heading</h2>
+      <p>blah</p>
+    </div>
+    <div class="col-md-4">
+      <h2>Heading</h2>
+      <p>blah</p>
+   </div>
+    <div class="col-md-4">
+      <h2>Heading</h2>
+      <p>blah</p>
+    </div>
+  </div> -->

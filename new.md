@@ -1,6 +1,5 @@
 ---
 layout: page
-title: New
 permalink: /new/
 ---
 #In Python, Not in JS

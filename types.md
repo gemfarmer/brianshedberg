@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Types
 permalink: /types/
 ---
 
