@@ -3,20 +3,20 @@ layout: default
 imgfolder: /images/hyper
 permalink: /work/hyper/
 images:
-  - name: Athlead_DoubleStrengths_2x.png
-    thumb: Athlead_DoubleStrengths_2x.png
+  - name: Athlead_DoubleStrengths.png
+    thumb: Athlead_DoubleStrengths.png
     text: Gallup Strengthsfinder
-  - name: Athlead_heroimage_2x.png
-    thumb: Athlead_heroimage_2x.png
+  - name: Athlead_heroimage.png
+    thumb: Athlead_heroimage.png
     text: In Mobile
-  - name: Athlead_LaptopListings_2x.png
-    thumb: Athlead_LaptopListings_2x.png
+  - name: Athlead_LaptopListings.png
+    thumb: Athlead_LaptopListings.png
     text: Work Buckets
   - name: Athlead_LaptopRecruiting.png
     thumb: Athlead_LaptopRecruiting.png
     text: Find resumes
-  - name: Athlead_ResumeTablet_2x.png
-    thumb: Athlead_ResumeTablet_2x.png
+  - name: Athlead_ResumeTablet.png
+    thumb: Athlead_ResumeTablet.png
     text: Profile preview
 description: 
 ---

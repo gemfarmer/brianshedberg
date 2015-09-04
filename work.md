@@ -9,8 +9,8 @@ images:
     text: Target – Digital Weekly Ad
     project: Target – Digital Weekly Ad
     url: /work/target/
-  - name: Athlead_LaptopListings_2x.png
-    thumb: Athlead_LaptopListings_2x.png
+  - name: Athlead_LaptopListings.png
+    thumb: Athlead_LaptopListings.png
     text: HyperIQ – Team Athlead
     project: HyperIQ – Team Athlead
     url: /work/hyper/
