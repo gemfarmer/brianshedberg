@@ -5,6 +5,7 @@ permalink: /contact/
 ---
 
 Find me online at any of these:
+
 {% include social_media.html %}
 
 Or say something nice... 
