@@ -9,6 +9,8 @@ images:
 description: 
 ---
 
+{% include galheader.html %}
+
 ##Target – Digital Weekly Ad
 
 I worked on the development team for the Digital Weekly Ad, the digital version of Target's print weekly advertisement. The application was used by every Target store nation-wide and brought in millions of dollars a week for the company. We used an AngularJS front-end with a Ruby-on-Rails backend. When I left the project, we were in the middle of converting the backend to Node.js. 
