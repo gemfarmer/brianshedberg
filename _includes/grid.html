@@ -4,7 +4,7 @@
 {% if include.image == null or include.image == image.name %}
   <div class="col-xs-12 col-sm-6 col-md-4 bottom-spacing" >
     <h2>{{image.project}}</h2>
-    <a href="{{ site.baseurl }}{{ image.url }}" title="{{ image.text }}"><img src="{{ site.baseurl }}{{ page.imgfolder }}/{{ image.thumb }}" title="{{ image.text }}"></a>
+    <a href="{{ site.baseurl }}/{{ image.url }}" title="{{ image.text }}"><img src="{{ site.baseurl }}/{{ page.imgfolder }}/{{ image.thumb }}" title="{{ image.text }}"></a>
   </div>
 {% endif %}
 
