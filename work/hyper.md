@@ -21,8 +21,6 @@ images:
 description: 
 ---
 
-{% include galheader.html %}
-
 ##HyperIQ – Team Athlead
 
 I was part of a four man dev team working for HyperIQ that built this web application from January – August 2014. I was a front-end developer working mostly with AngularJS and CSS. 

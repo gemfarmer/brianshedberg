@@ -12,8 +12,6 @@ images:
 description: 
 ---
 
-{% include galheader.html %}
-
 ##Sandbox Center for Regenerative Entrepreneurship
 
 I am part of the Leadership Team for Sandbox Center, a farmer incubator organization based in Ham Lake, MN. 

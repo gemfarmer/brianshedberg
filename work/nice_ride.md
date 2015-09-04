@@ -9,8 +9,6 @@ images:
 description: 
 ---
 
-{% include galheader.html %}
-
 ##Nice Ride Microsite
 
 The Nice Ride Microsite project was a collaborative project between [Nice Ride](https://www.niceridemn.org/), the [City of Minneapolis](http://www.minneapolismn.gov/), [Clockwork Active Media](http://www.clockwork.net/), and [Hedberg Maps, Inc.](http://hedbergmaps.com/), sponsored by [Allina Health](http://www.allinahealth.org/). I was part of the Hedberg Maps Inc. team for the project, but collaborated with the folks at Clockwork as well.
