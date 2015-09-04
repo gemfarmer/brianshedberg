@@ -1,6 +1,6 @@
 ---
 layout: default
-imgfolder: /images
+imgfolder: /images/target
 permalink: /work/target/
 images:
   - name: target.png
