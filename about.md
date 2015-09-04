@@ -4,7 +4,7 @@ title: About
 permalink: about/
 ---
 
-![prof-pic]({{ site.url }}/images/profPic.jpg)
+![prof-pic]({{ site.url }}{{ site.baseurl }}/images/profPic.jpg)
 
 I live in the tundra oasis of Minneapolis, MN, where I keep busy playing outdoors (bike, ski, soccer, canoe), hanging out in coffee shops, tinkering, farming, cooking, and cavorting with friends. 
 
