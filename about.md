@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: about/
 ---
 
 ![prof-pic]({{ site.url }}/images/profPic.jpg)
