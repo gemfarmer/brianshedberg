@@ -15,9 +15,6 @@ images:
   - name: tablet.png
     thumb: tablet.png
     text: Find resumes
-  - name: phone.jpg
-    thumb: phone.jpg
-    text: Profile preview
 description: 
 ---
 
